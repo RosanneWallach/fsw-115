@@ -1,0 +1,66 @@
+{
+    "appetizers": [
+        "Shrimp Cocktail", [
+            ["shrimp", "cocktail sauce", "lemon"], 
+            ["Large shrimp, sprinkled with fresh lemon juice with a zesty cocktail sauce."]
+            ], 
+        "Crab and Artichoke Dip", [
+            ["lump crabmeat", "artichoke hearts", "cream cheese", "Monterey Jack cheese", "Parmesan cheese", "garlic", "green onions"],
+            ["Fresh Maine crab and artichoke hearts in a warm cheese sauce with garlicky crostini."]
+            ], 
+        "Ceviche", [
+            ["halibut", "lime", "lemon", "onion", "cilantro", "chili pepper"],
+            ["Chunks of fresh halibut, marinated in freshly squeezed lime and lemon juices, with chopped onions, chili peppers, cilantro, salt and pepper."]
+            ]
+        ],
+    "coldSandwiches": [
+        "Turkey Club", [
+            ["turkey", "bacon", "lettuce", "tomato", "choice of cheese", "mayo", "choice of bread"], 
+            ["Fresh carved oven roasted turkey piled high with your choice of cheese, lettuce, tomato and mayo on your choice of bread"]
+            ],
+        "Chicken Salad", [
+            ["chicken salad", "lettuce", "tomato", "choice of cheese", "choice of bread"], 
+            ["Homemade chicken salad made daily with your choice of cheese, lettuce and tomato on your choice of bread"]
+            ],
+        "Tuna Salad", [
+            ["tuna salad", "lettuce", "tomato", "choice of cheese", "choice of bread"], 
+            ["Homemade tuna salad made daily with your choice of cheese, lettuce and tomato on your choice of bread"]
+            ]
+        ],
+    "hotSandwiches": [
+        "French Dip", [
+            ["roast beef", "au jus sauce", "onion", "Swiss cheese", "French roll"],
+            ["Thinly sliced roast beef on a French roll topped with Swiss Cheese, onions, and a side of au jus sauce for dipping."]
+            ],
+        "Philly Cheesesteak", [
+            ["sirloin steak", "cheese", "onion", "peppers", "French roll"],
+            ["Prime sirloin steak on a French roll smothered with cheese, onions and peppers."]
+            ],
+        "Open Faced Pot Roast Sandwich", [
+            ["pot roast", "gravy", "mashed potatoes"],
+            ["Homemade pot roast with our JSON's famous gravy and mashed potatoes."]            
+            ]
+        ],
+    "Desserts": [
+        "Chocolate Cake", [
+            ["chocolate", "frosting"], 
+            ["Delicious chocolate cake."]
+            ],
+        "Cheesecake", [
+            ["cheesecake", "blueberries", "cinnamon"],
+            ["New York style cheesecake."]
+            ]
+        ], 
+    "Drinks": [
+        "Beer", [
+            ["Heineken", "Guinness", "Samuel Adams", "Bud"], 
+            ] ,
+        "Wine", [
+            ["Merlot", "Chardonnay", "Pinot Noir", "Cabernet Sauvignon"], 
+            ["The finest wines in the North East region."]
+            ] ,
+        "Soft drinks", [
+            ["Coke", "7 Up", "root beer", "water"], 
+            ]
+    ]
+}
